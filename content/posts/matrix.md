@@ -2,8 +2,12 @@
 title = "Matrix"
 date = "2020-12-01"
 author = "Alex Edmonds - edmonds@"
-description = "I will be creating a CSGSBS Standing Committee for Better Graduate Funding, which will serve to regularly meet with the Department Chair and exert pressure on the departmental leadership to follow through with their commitment to increase our funding."
+description = "The CSGSBS runs a Matrix server for instant messaging amongst CS grad students."
 +++
+
+_Matrix is no longer online :(_
+
+---
 
 The CSGSBS runs a Matrix server for instant messaging amongst CS grad students. You can register at: [riot.turing.casa/#/register](https://riot.turing.casa/#/register). To register, you will have to use your `@cs.toronto.edu` email address. Some people reported difficulties with the verification email. Be sure to check your junk mail.
 

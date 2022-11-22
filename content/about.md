@@ -18,7 +18,7 @@ We are the Computer Science Graduate Students’ Benevolent Society (CSGSBS), re
 | Protector of the Realm (President)                                | [Robert (Rupert) Wu](https://www.cs.toronto.edu/~rupert)      | rupert@   |
 | Master of the Coin (Treasurer)                                    | Yuju Lee                                                      | yujulee@  |
 | Ambassador to the Union (Graduate Students’ Union Representative) | Marina Tawfik                                                 | marinat@  |
-| Workers’ Union Delegate (CUPE 3902 Representative)                | [(vacant)](../posts/byelection-nov2022)                       |           |
+| Workers’ Union Delegate (CUPE 3902 Representative)                | Shirley Wang                      |  shirleywang@         |
 | Provider of the Chip (Cookie Break Coordinator)                   | [Balagopal Unnikrishnan](https://linkedin.com/in/balagopalu/) | balu@     |
 | Dungeon Master (Games Coordinator)                                | Bohdan (Bogdan) Pikula                                        | pikula@   |
 | Lady of the Pint (Pub Nights Coordinator)                         | Yewon Lee                                                     | yewonlee@ |

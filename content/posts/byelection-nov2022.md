@@ -1,9 +1,13 @@
 +++
 title = "By-Election (Nov 2022)"
 date = "2022-11-04"
-author = "Rupert Wu -rupert@"
-description = "Want to be involved? We have some openings!"
+author = "Rupert Wu - rupert@"
+description = "Congrats to Shirley Wang, our new CUPE rep!"
 +++
+
+_Congratulations to Shirley Wang, our new CUPE 3920 Representative!_
+
+---
 
 As we didn't elect a Representative to [CUPE 3902](https://www.cupe3902.org/) at our [last general meeting](../gm-sept2022), we will be holding a by-election this month. Some of our current initiatives and actions make filling this position crucial in adequately representing and supporting our students to CUPE 3902 and in teaching contract issues.
 

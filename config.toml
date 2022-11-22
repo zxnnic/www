@@ -41,9 +41,9 @@ paginate = 5
         name = "Constitution"
         url = "/constitution.pdf"
       [[languages.en.menu.main]]
-        identifier = "matrix"
-        name = "Matrix"
-        url = "/matrix"
+        identifier = "cookies"
+        name = "Cookie Break"
+        url = "/posts/cookie-breaks"
       [[languages.en.menu.main]]
         identifier = "dcs"
         name = "Resources"
