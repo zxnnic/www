@@ -5,7 +5,7 @@ author = "Rupert Wu - rupert@"
 description = "Congrats to Shirley Wang, our new CUPE rep!"
 +++
 
-_Congratulations to Shirley Wang, our new CUPE 3920 Representative!_
+_Congratulations to Shirley Wang, our new CUPE 3902 Representative!_
 
 ---
 
@@ -15,6 +15,6 @@ We don't currently have any [Master of Science in Applied Computing (MScAC)](htt
 
 If you're interested in either position, please review the [constitution](../../constitution.pdf) and contact me at [csgsbs-president@](mailto:csgsbs-president@cs.toronto.edu) by **9PM on Tuesday, November 8, 2022**.
 
-Robert (Rupert) Wu | President, CSGSBS
+-Rupert
 
 P.S. Please enjoy our new website :)

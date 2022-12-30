@@ -42,7 +42,7 @@ paginate = 5
         url = "/constitution.pdf"
       [[languages.en.menu.main]]
         identifier = "cookies"
-        name = "Cookie Break"
+        name = "Cookie Breaks"
         url = "/posts/cookie-breaks"
       [[languages.en.menu.main]]
         identifier = "dcs"
