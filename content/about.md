@@ -35,9 +35,9 @@ We are the Computer Science Graduate Students’ Benevolent Society (CSGSBS), re
 #### Foreign Ministry - Delegates to the Department of Computer Science
 
 - **Ambassadors to the Graduate Affairs Committee (2)**\*
-  - Claas A. Voelcker (outgoing) - cvoelcker@
+  - Claas A. Voelcker - cvoelcker@
   - David Glukhov - dglukhov@
-  - (vacant; email [csgsbs@](mailto:csgsbs@cs.toronto.edu))
+  - (vacant; email [csgsbs@](mailto:csgsbs@cs.toronto.edu) if you're interested!)
 - **Ambassadors to the Undergraduate Affairs Committee (2)**\*
   - (vacant)
   - (vacant)
