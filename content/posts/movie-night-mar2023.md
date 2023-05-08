@@ -1,5 +1,5 @@
 +++
-title = "CSGSBS Board Game & Movie Night"
+title = "Board Game & Movie Night"
 date = "2023-03-15"
 author = "Bogdan, Rupert - csgsbs@"
 cover = "img/board-game.jpg"

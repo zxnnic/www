@@ -1,5 +1,5 @@
 +++
-title = "Trip to the Christmas Market with CSGSBS"
+title = "Trip to the Christmas Market"
 date = "2022-12-22"
 author = "Bohdan Pikula - pikula@"
 cover = "img/xmas-market-2022.jpg"
