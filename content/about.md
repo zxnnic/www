@@ -7,7 +7,7 @@ framed = true
 
 # CSGSBS @ UofT | About Us
 
-We are the Computer Science Graduate Students’ Benevolent Society (CSGSBS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as cookie breaks and games/pub nights. Join us on [Discord](https://discord.gg/qKWCNFvNBF) <3
+We are the Computer Science Graduate Society (CSGS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as cookie breaks and games/pub nights. Join us on [Discord](https://discord.gg/qKWCNFvNBF) <3
 
 -CSGSBS ʕ·͡ᴥ·ʔ
 
@@ -19,18 +19,18 @@ We are the Computer Science Graduate Students’ Benevolent Society (CSGSBS), re
 
 ## Executive Council
 
-| Role (+ex officio)                                | Holder                                                                     | Username/Email |
-| ------------------------------------------------- | -------------------------------------------------------------------------- | -------------- |
-| Protector of the Realm (President)                | [Robert (Rupert) Wu](https://www.cs.toronto.edu/~rupert)                   | rupert@        |
-| Master of the Coin (Treasurer)                    | [Yuju (Jett) Lee](https://www.linkedin.com/in/yujulee)                     | yujulee@       |
-| Ambassador to the Union (GSU Representative)      | Marina Tawfik                                                              | marinat@       |
-| Workers’ Union Delegate (CUPE3902 Representative) | [Yuemeng (Shirley) Wang](https://www.linkedin.com/in/shirley-yuemeng-wang) | shirleywang@   |
-| Provider of the Chip (Cookie Break Coordinator)   | [Balagopal Unnikrishnan](https://linkedin.com/in/balagopalu/)              | balu@          |
-| Dungeon Master (Games Coordinator)                | [Bohdan (Bogdan) Pikula](https://linkedin.com/in/bohdan-pikula)            | pikula@        |
-| Pop Master (Snack Procurer)                       | [Ziyang Jin](http://www.cs.toronto.edu/~ziyang/)                           | ziyang@        |
-| MScAC Liaison\*                                   | (vacant; email [csgsbs@](mailto:csgsbs@cs.toronto.edu))                    | csgsbs@        |
-
-\* non-voting member(s)
+| Role (+ex officio)                      | Holder                            | Username/Email |
+| --------------------------------------- | --------------------------------- | -------------- |
+| President                               | Bohdan (Bogdan) Pikula            | pikula         |
+| Vice-President                          | Akshay Arun Bapat                 | bapataks       |
+| Treasurer                               | Georgianna (Blue) Lin             | blue           |
+| Ambassador to the Union (GSU Rep)       | _(vacant)_                        | _(vacant)_     |
+| Workers' Union Delegate (CUPE 3902 Rep) | Nathan Peter Michael Gurrin-Smith | nathan         |
+| Social Coordinator                      | Bo (Brian) Fu                     | fubof          |
+| Social Coordinator                      | Pawan Kumar Sanjaya               | pawks          |
+| Social Coordinator                      | Yi Xin (Nicole) Zhao              | zhaoz192       |
+| Systems Administrator                   | Robert (Rupert) Wu                | rupert         |
+| MScAC Liaison                           | Robert Joshua Redelmeier          | rredelmeier    |
 
 #### Foreign Ministry - Delegates to the Department of Computer Science
 
