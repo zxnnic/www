@@ -1,13 +1,31 @@
 +++
 title = "Cookie Breaks"
-date = "2022-11-15"
-author = "Balagopal Unnikrishnan - balu@"
-description = "Come chat and snack in BA 7231 :)"
+date = "2024-01-08"
+author = "Zixin Zhao - zzhao1@"
+description = "Come chat and grab a snack"
 framed = true
 showInMenu = true
 +++
 
 Do you need a break? Come join us for our weekly cookie breaks! Chat with your peers, play board games, and have some light refreshments.
+We usually send out notifications through the graduate cs mailing list and on Discord. 
+
+## Winter 2023
+
+Cookie breaks are returning!! We will aim to have fruits available at every breaks for those who don't want something too sweet. Here is the tentative schedule:
+
+| Date (Fridays)  | Snack                                                    | Time        | Room                                                               |
+| --------------- | -------------------------------------------------------- | ----------- | ------------------------------------------------------------------ |
+| Jan 19          | [COPS](https://www.eatcops.com/)                         | 2:30-3:30PM | [BA 2283](https://map.utoronto.ca/?id=1809#!ct/45469?m/494470)     |
+| Jan 26          | [Hodo Kwaja](https://maps.app.goo.gl/a5NMFctq3oGhqfTa9)  | 2:30-3:30PM | [BA 2283](https://map.utoronto.ca/?id=1809#!ct/45469?m/494470)     |
+| Feb 2           | TBD                                                      | 2:30-3:30PM | [BA 2283](https://map.utoronto.ca/?id=1809#!ct/45469?m/494470)     |
+| Feb 9           | TBD                                                      | 2:30-3:30PM | [BA 2283](https://map.utoronto.ca/?id=1809#!ct/45469?m/494470)     |
+
+If you have any suggestions please message the [Discord](https://discord.gg/qKWCNFvNBF) channel or send us an email :). 
+
+## Fall 2023
+
+We held cookie breaks on Fridays from 3:30 pm to 4:30 pm at in our club room (BA2283).
 
 ## Summer 2023
 
