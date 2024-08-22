@@ -1,13 +1,13 @@
 +++
 title = "About"
 date = "2022-09-28"
-author = "Rupert Wu - rupert@"
+author = "CSGS"
 framed = true
 +++
 
 # CSGSBS @ UofT | About Us
 
-We are the Computer Science Graduate Society (CSGS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as cookie breaks and games/pub nights. Join us on [Discord](https://discord.gg/qKWCNFvNBF) <3
+We are the Computer Science Graduate Society (CSGS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as weekly cookie breaks and occasional games/pub nights. To stay updated, join us on [Discord](https://discord.gg/qKWCNFvNBF) <3
 
 -CSGSBS ʕ·͡ᴥ·ʔ
 
@@ -28,7 +28,7 @@ We are the Computer Science Graduate Society (CSGS), representing graduate stude
 | Workers' Union Delegate (CUPE 3902 Rep) | Nathan Peter Michael Gurrin-Smith | nathan         |
 | Social Coordinator                      | Bo (Brian) Fu                     | fubof          |
 | Social Coordinator                      | Pawan Kumar Sanjaya               | pawks          |
-| Social Coordinator                      | Yi Xin (Nicole) Zhao              | zhaoz192       |
+| Social Coordinator                      | Zi Xin (Nicole) Zhao              | zzhao1         |
 | Systems Administrator                   | Robert (Rupert) Wu                | rupert         |
 | MScAC Liaison                           | Robert Joshua Redelmeier          | rredelmeier    |
 

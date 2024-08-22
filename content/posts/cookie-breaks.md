@@ -1,15 +1,28 @@
 +++
 title = "Cookie Breaks"
 date = "2024-01-08"
+=======
 author = "Zixin Zhao - zzhao1@"
 description = "Come chat and grab a snack"
 framed = true
 showInMenu = true
 +++
 
+![Cookie Break banner](/static/img/cookie-break-banner.png)
+
 Do you need a break? Come join us for our weekly cookie breaks! Chat with your peers, play board games, and have some light refreshments.
 We usually send out notifications through the graduate cs mailing list and on Discord. 
 
+## Fall 2024
+
+Cookie breaks are continuing! If you have any suggestions of a place you'd like to try snack from, please fill out this [form](https://forms.gle/P41pYG12n4EUznba9). We will be hosting cookie breaks on the 7th floor of Bahen (BA 7231) at 3:30-4:30 pm every Friday. 
+
+
+## Spring Summer 2024
+
+This semester we are trying something new! CSGS presents the Cookie Break series: **Eating around the World (read Toronto)**. We bring you snacks from countries around the world created by our local multicultural community. Please join us Fridays at 3:30-4:30 pm for a fun treat :)
+
+<!-- 
 ## Winter 2023
 
 Cookie breaks are returning!! We will aim to have fruits available at every breaks for those who don't want something too sweet. Here is the tentative schedule:
@@ -69,3 +82,4 @@ We will host our regular Fall cookie breaks on the following Tuesdays.
 ---
 
 Want to (un)subscribe to/from the cookie breaks mailing list? [Click here.](https://forms.gle/F63nkemknYEFb8MD7)
+ -->
