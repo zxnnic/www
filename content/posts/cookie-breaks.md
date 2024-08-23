@@ -1,8 +1,8 @@
 +++
 title = "Cookie Breaks"
-date = "2024-01-08"
+date = "2024-08-2024"
 =======
-author = "Zixin Zhao - zzhao1@"
+author = "Zixin Zhao - zzhao1"
 description = "Come chat and grab a snack"
 framed = true
 showInMenu = true
