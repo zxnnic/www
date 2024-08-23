@@ -7,7 +7,7 @@ framed = true
 
 # CSGSBS @ UofT | About Us
 
-We are the Computer Science Graduate Society (CSGS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as weekly cookie breaks and occasional games/pub nights. To stay updated, join us on [Discord](https://discord.gg/qKWCNFvNBF) <3
+We are the Computer Science Graduate Society (CSGS), representing graduate students studying computer science at the University of Toronto. In addition to serving as your liaison, we also organize events such as weekly cookie breaks and occasional games/pub nights. To hear about events we host or if you want to get involved, please join our [Discord](https://discord.gg/qKWCNFvNBF) <3
 
 -CSGSBS ʕ·͡ᴥ·ʔ
 
