@@ -1,7 +1,6 @@
 +++
 title = "Cookie Breaks"
 date = "2024-08-2024"
-=======
 author = "Zixin Zhao - zzhao1"
 description = "Come chat and grab a snack"
 framed = true
@@ -22,7 +21,7 @@ Cookie breaks are continuing! If you have any suggestions of a place you'd like 
 
 This semester we are trying something new! CSGS presents the Cookie Break series: **Eating around the World (read Toronto)**. We bring you snacks from countries around the world created by our local multicultural community. Please join us Fridays at 3:30-4:30 pm for a fun treat :)
 
-<!-- 
+
 ## Winter 2023
 
 Cookie breaks are returning!! We will aim to have fruits available at every breaks for those who don't want something too sweet. Here is the tentative schedule:
@@ -82,4 +81,3 @@ We will host our regular Fall cookie breaks on the following Tuesdays.
 ---
 
 Want to (un)subscribe to/from the cookie breaks mailing list? [Click here.](https://forms.gle/F63nkemknYEFb8MD7)
- -->
